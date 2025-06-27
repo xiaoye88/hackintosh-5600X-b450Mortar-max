@@ -38,7 +38,7 @@
 ## 联系方式
 * [![Telegram](https://img.shields.io/badge/Telegram-@Dialectsuds-blue.svg?style=social)](https://t.me/DialectSudr)
 * [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)
-* [![QQ](https://img.shields.io/badge/QQ-@Dialectsuds-blue.svg?style=social)](http://wpa.qq.com/msgrd?v=3&uin=1208194001&site=qq&menu=yes)
+* [![QQ](https://img.shields.io/badge/QQ-@Dialectsuds-blue.svg?style=social)](tencent://message/?site=qq&menu=yes&uin=1208194001)
 ## 致谢
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
 * [黑果小兵的部落阁](https://blog.daliansky.net)
